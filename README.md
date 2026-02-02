@@ -12,6 +12,7 @@ apb_uvm_verification/
 │   │   └── apb_if.sv
 │   │
 │   ├── agent/
+
 │   │   ├── apb_agent.sv
 │   │   ├── apb_driver.sv
 │   │   ├── apb_monitor.sv
@@ -30,9 +31,11 @@ apb_uvm_verification/
 │   │   ├── apb_reg_block.sv
 │   │   └── apb_reg_model.sv
 │   │
+
 │   ├── scoreboard/
 │   │   └── apb_scoreboard.sv
 │   │
+
 │   ├── test/
 │   │   ├── apb_base_test.sv
 │   │   └── apb_rw_test.sv
